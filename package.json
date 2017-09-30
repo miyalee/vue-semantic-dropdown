@@ -1,8 +1,8 @@
 {
   "name": "vue-semantic-dropdown",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "A Semantic Dropdown For Vue",
-  "main": "dist/static/vue-semantic-dropdown.js",
+  "main": "static/vue-semantic-dropdown.js",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",

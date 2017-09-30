@@ -35,7 +35,7 @@ export default {
                     value: '小红'
                 },
                 {
-                    id: 'litteBlur',
+                    id: 'litteBlue',
                     value: '小蓝'
                 }
             ],
